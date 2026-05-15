@@ -7,6 +7,9 @@ This project is beginner-friendly and helps understand the basics of form creati
 
 ## 🚀 Features
 
+<img width="1919" height="1063" alt="image" src="https://github.com/user-attachments/assets/03a76186-3fa4-470d-82c4-447a0c2d076f" />
+
+
 - Clean and simple UI
 - Responsive form layout
 - HTML form elements
